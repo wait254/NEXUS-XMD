@@ -43,11 +43,8 @@ href="https://github.com/pkdriller/NEXUS-XMD/graphs/commit-activity"><img height
   <a href="https://nexus-xmd-pair-site.onrender.com/"><img title="DEPLOY-NOW" src="https://img.shields.io/badge/PAIR-SESSION-h?color=blue&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
 
 
-
-<h4 align="left">1. 𝐇𝐄𝐑𝐎𝐊𝐔</h4>
-<p align="left">
-<a href='https://dashboard.heroku.com/new-app?template=https://github.com/pkdriller00/Nexus-_xmd"target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
-</p>
+**Heroku**  
+[![](https://img.shields.io/badge/-Deploy%20To%20Heroku-6971FF?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/pkdriller00/Nexus-_xmd/tree/main)
 
 
 <h4 align="left">3. 𝐑𝐀𝐈𝐋𝐖𝐀𝐘𝐒</h4>
