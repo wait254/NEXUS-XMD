@@ -55,15 +55,7 @@
 </p>
 
 ⭐ Follow My GitHub ⭐
-[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=Account&color=800000&style=for-the-badge&logo=github&logoColor=pink)](https://github.com/pkdriller)  
-
-
----
-
----
-***
-<a href="https://mr-pk-web.vercel.app/"><img src="https://img.shields.io/badge/NEXUS%20XMD%20WEB-skyblue" alt="NEXUS_XMD_WEB" width="270"></a>
-
+[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=Account&color=800000&style=for-the-badge&logo=github&logoColor=pink)](https://github.com/pkdriller) 
 <p align="center">
     <a href="https://chat.whatsapp.com/KUc6KZ4OTAcJDkIDDGFz4O">
         <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
