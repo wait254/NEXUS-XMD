@@ -37,7 +37,7 @@ cmd({
                 from,
                 { 
                     image: { url: imageUrl },
-                    caption: `📷 Result for: ${query}\n> © Powered by NEXUS-XMD`
+                    caption: `📷 Result for: ${query}\n> © Powered by Pkdriller`
                 },
                 { quoted: mek }
             );
