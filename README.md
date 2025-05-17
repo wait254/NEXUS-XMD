@@ -37,22 +37,40 @@ href="https://github.com/pkdriller/NEXUS-XMD/graphs/commit-activity"><img height
  <a href="https://github.com/pkdriller/NEXUS-XMD/fork"><img title="NEXUS-XMD" src="https://img.shields.io/badge/FORK-NEXUS XMD V1-h?color=008000&style=for-the-badge&logo=github"></a>
  
 
-  > **⚠️ OPTION ONE**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
 
-
-  <a href="https://nexus-xmd-pair-site.onrender.com/"><img title="DEPLOY-NOW" src="https://img.shields.io/badge/PAIR-SESSION-h?color=blue&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
-
-
-**Heroku**  
-[![](https://img.shields.io/badge/-Deploy%20To%20Heroku-6971FF?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/pkdriller00/Nexus-_xmd/tree/main)
-
-
-<h4 align="left">3. 𝐑𝐀𝐈𝐋𝐖𝐀𝐘𝐒</h4>
-<p align="left">
-<a href='https://railway.app/new' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Railway%20Deploy-red?style=for-the-badge&logo=railway&logoColor=white'/></a>
+<!-- Action Buttons -->
+<p align="center">
+  <a href="https://nexus-xmd-pair-site.onrender.com/">
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/❤️_GET_NEXUS_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=blue" width="260" height="50"/>
+   </a>
+</p>
+<p align="center">
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Pkdriller/NEXUS-XMD/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY NEXUS-AI BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://render.com">
+    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/👻_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://railway.app?referralCode=AqkNn4">
+    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/👻_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=red&color=purple" width="260" height="50"/>
+  </a>
+</p>
+<!-- Glowing Footer -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+NEXUS+XMD+Edition+by+Pkdriller👻;⚡+The+Best+Simple+WhatsApp+Bot+Allover+The+Glob" alt="Footer Animation">
+</h3>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
 ⭐ Follow My GitHub ⭐
 [![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=Account&color=800000&style=for-the-badge&logo=github&logoColor=pink)](https://github.com/pkdriller)  
