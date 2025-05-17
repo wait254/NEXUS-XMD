@@ -14,26 +14,8 @@
  <p align="center"><img src="https://profile-counter.glitch.me/{pkdriller}/count.svg" alt="pkdriller :: Visitor's Count" old_src="https://profile-counter.glitch.me/{pkdriller}/count.svg" /></p>
 
 
-<p align="center">
-<a href="https://github.com/pkdriller/NEXUS-XMD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=NEXUS-XMD&label=VIEWS&style=square&color=blue" />
-</p>
-</p> 
-
-<p align="center">
-  <a href="https://github.com/pkdriller/NEXUS-XMD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0.0-cyan.svg?style=for-the-badge&logo=aqua" /></a>
-</p>
-
-
-
-  
-<a
-href="https://github.com/pkdriller/NEXUS-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
 <p align='center'>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
- <p align="lift">
  <a href="https://github.com/pkdriller/NEXUS-XMD/fork"><img title="NEXUS-XMD" src="https://img.shields.io/badge/FORK-NEXUS XMD V1-h?color=008000&style=for-the-badge&logo=github"></a>
  
 
