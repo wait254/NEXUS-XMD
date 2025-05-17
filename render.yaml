@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: Sarkar-MD
+    name: NEXUS-XMD
     env: node
     plan: free
     repo: https://github.com/Pkdriller/NEXUS-XMD
