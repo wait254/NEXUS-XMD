@@ -46,7 +46,7 @@ href="https://github.com/pkdriller/NEXUS-XMD/graphs/commit-activity"><img height
 
 <h4 align="left">1. 𝐇𝐄𝐑𝐎𝐊𝐔</h4>
 <p align="left">
-<a href='https://dashboard.heroku.com/new-apptemplate=https://github.com/pkdriller00/Nexus-_xmd' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new-app?template=https://github.com/pkdriller00/Nexus-_xmd"target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
 </p>
 
 
