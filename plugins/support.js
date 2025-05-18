@@ -37,7 +37,7 @@ https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x
 
 \ GROUP\ 👥
 
-https://chat.whatsapp.com/KUc6KZ4OTAcJDkIDDGFz4O
+[https://chat.whatsapp.com/KUc6KZ4OTAcJDkIDDGFz4O]
 
 \ PK DRILLER\ *Dev🧑‍💻*
 
