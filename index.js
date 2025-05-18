@@ -112,7 +112,7 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*✨ Hello, POPKID-XTECH Legend! ✨*
+  let up = `*✨ Hello, NEXUS-XMD Legend! ✨*
 
 ╭─〔 *🤖 NEXUS-XMD BOT* 〕  
 ├─▸ *Simplicity. Speed. Power. BY JOSEPH.  
