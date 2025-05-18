@@ -14,19 +14,22 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         let dec = `
-╭━〔NEXUS-XMD〕━━┈⊷
+╭━〔༒❀♡ℕ𝔼𝕏𝕌𝕊-𝕏𝕄𝔻♡❀༒〕━━┈⊷
 ┃★╭────────────
-👮©MR PK DRILLER⭐
+👮BY ©MR PK DRILLER⭐
 
-📌PK EXTRA CMDS🪀
+📌PK EXTRA CMDS⚡🪀
 ★ 1 .porn
 ★ 2 .xvideos 
 ★ 3 .tempmail 
 ★ 2 .tempnumber 
 ★ 3 .nexus
 ★ 4 .wastalk 
+★ 5 .imgscan
+★ 6 . forward 
+★ 7 .list
 
-📌 QURAN-MENU 🪀
+📌 QURAN-MENU🕌 🪀
 
 ★ 1 .surah1
 ★ 2 .surah2
@@ -39,11 +42,11 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ★ 9.surah9
 ★ 10.surah10
 _________________________
-📌 PRAYERTIME 🪀
+📌 PRAYERTIME🙏 🪀
 
 ★ 1 .Prayertime
 _________________________
-  📌 AI-MENU🪀
+  📌 AI-MENU🧏🪀
   
 ★ 1 Fluxpro
 ★ 2 .ai
@@ -55,9 +58,9 @@ _________________________
 ★ 8 .imagine3
 ★ 9 .wallpaper
 ★ 10 .image
+★ 11 .ai voice
 _________________________
-📌 ANIME-MENU 🪀
-
+📌 ANIME-MENU🦖 🪀
 ★ 1 .anime
 ★ 2 .anime1
 ★ 3 .anime2
@@ -77,8 +80,7 @@ _________________________
 ★ 17 .animegirl5
 ★ 18 .dog
 _________________________
-📌 REACTIONS-MENU🪀
-
+📌 REACTIONS-MENU💥🪀
 ★  1 .cry
 ★ 2 .cuddle
 ★ 3 .bully
@@ -106,7 +108,7 @@ _________________________
 ★ 25 .slap
 ★ 26 .kiss
 _________________________
-📌 CONVERTER-MENU🪀
+📌 CONVERTER-MENU🔗🪀
 
 ★ 1 .sticker
 ★ 2 .topdf
@@ -123,7 +125,7 @@ _________________________
 ★ 13 .fetch
 ★ 14 .emoji
 _________________________
-📌 FUN-MENU🪀
+📌 FUN-MENU😂🪀
 
 ★ 1 .define
 ★ 2 .emix 
@@ -145,7 +147,7 @@ _________________________
 ★ 18 .joke
 ★ 19 .hack
 _________________________
-📌 DL-MENU🪀
+📌 DL-MENU🔗🪀
 
 ★ 1 .capcut
 ★ 2 .ringtone
@@ -177,8 +179,10 @@ _________________________
 ★ 28 .video7
 ★ 29 .porn
 ★ 30 .xvideos 
+★ 31 playy 
+★ 32 play3
 _________________________
-📌 GROUP-MENU🪀
+📌 GROUP-MENU🧑‍🤝‍🧑🪀
 
 ★ 1 .admin
 ★ 2 .admin1
@@ -201,7 +205,7 @@ _________________________
 ★ 19 .removeall
 ★ 20 .remove(+2'')
 _________________________
-📌OTHER-MENU🪀
+📌OTHER-MENU🇰🇪🪀
 
 ★ 1 .ytsearch
 ★ 2 .githubstalk
@@ -221,8 +225,9 @@ _________________________
 ★ 16  .get
 ★ 17  .dev
 ★ 18 .mee
+★ 19 .profile
 _________________________
-📌 OWNER-MENU🪀
+📌 OWNER-MENU👻🪀
 
 ★ 1 .alive
 ★ 2 .version
@@ -252,6 +257,7 @@ _________________________
 ★ 25 . nexus
 ★ 27 . mpesamenu
 ★ 28 . setprefix 
+★ 29 . msg 
 _________________________
 ┃🇰🇪└───────────┈⊷
 ╰──────────────┈⊷
