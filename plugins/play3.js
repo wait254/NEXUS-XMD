@@ -48,7 +48,7 @@ _Reply to this message with 1 or 2 to download._`;
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363288304618280@newsletter',
-                newsletterName: 'SMART-TECH TRENDS',
+                newsletterName: 'NEXUS TECH',
                 serverMessageId: 143
             }
         };
@@ -106,7 +106,7 @@ _Reply to this message with 1 or 2 to download._`;
 // MP3 song download
 cmd({ 
     pattern: "song", 
-    alias: ["ytdl3", "play"], 
+    alias: ["ytdl3", "playy"], 
     react: "🎶", 
     desc: "Download YouTube song", 
     category: "main", 
@@ -149,7 +149,7 @@ _Reply with 1, 2 or 3 to this message to download the format you prefer._`;
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363288304618280@newsletter',
-                newsletterName: 'SMART-TECH TRENDS',
+                newsletterName: 'NEXUS XMD',
                 serverMessageId: 143
             }
         };
