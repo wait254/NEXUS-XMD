@@ -28,7 +28,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ★ 5 .imgscan
 ★ 6 . forward 
 ★ 7 .list
-
+★ 8 .adultmenu
+★ 9 .mpesamenu
 📌 QURAN-MENU🕌 🪀
 
 ★ 1 .surah1
