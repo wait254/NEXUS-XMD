@@ -115,11 +115,11 @@ const port = process.env.PORT || 9090;
   let up = `*✨ Hello, NEXUS-XMD Legend! ✨*
 
 ╭─〔 *🤖 NEXUS-XMD BOT* 〕  
-├─▸ *Simplicity. Speed. Power. BY JOSEPH.  
-|    MWANGI!*  
+├─▸ *Simplicity. Speed. Power. BY PK.  
+|    DRILLER!*  
 ╰─➤ *Your New WhatsApp Sidekick is Here!*
 
-*❤️ Thank you for Choosing JOEX-MD!*
+*❤️ Thank you for Choosing NEXUS-XMD!*
 
 ╭──〔 🔗 *Quick Links* 〕  
 ├─ 📢 *Join Our Channel:*  
