@@ -6,7 +6,7 @@ const {cmd , commands} = require('../command')
 
 
 // Replace this with your actual GitHub RAW JSON URL
-const GITHUB_RAW_URL = 'https://raw.githubusercontent.com/popkidxtech/POP-DATA/main/autoreply.json';
+const GITHUB_RAW_URL = 'https://raw.githubusercontent.com/NEXUS-XMD/Pkdriller-DATA/main/autoreply.json';
 
 cmd({
   on: "body"
